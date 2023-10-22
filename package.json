@@ -1,0 +1,16 @@
+{
+    "name": "generator-sass-gulp-boilerplate",
+    "version": "0.1.0",
+    "description": "This generator is based on codercoder's generator",
+    "main": "index.js",
+    "type": "module",
+    "files": [
+        "generators"
+    ],
+    "keywords": [
+        "yeoman-generator"
+    ],
+    "dependencies": {
+        "yeoman-generator": "^7.0.0"
+    }
+}
