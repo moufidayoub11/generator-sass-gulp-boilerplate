@@ -11,6 +11,8 @@
         "yeoman-generator"
     ],
     "dependencies": {
+        "chalk": "^5.3.0",
+        "figlet": "^1.6.0",
         "yeoman-generator": "^7.0.0"
     }
 }
